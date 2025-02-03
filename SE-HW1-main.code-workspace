@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "../../../Desktop/SE-HW1-main"
+		}
+	],
+	"settings": {
+		"java.debug.settings.onBuildFailureProceed": true,
+		"java.project.sourcePaths": [
+			""
+		]
+	},
+	"launch": {
+		"version": "0.2.0",
+		"configurations": []
+	}
+}
